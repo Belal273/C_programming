@@ -1,5 +1,5 @@
 # C_programming
-Write a C code for clinic management system. At the beginning of the system it asks the user to choose
+ C code for clinic management system. At the beginning of the system it asks the user to choose
 between admin mode and user mode.
 In admin mode
 The system asks for password, the default password is 1234. The system allows 3 trails for the password
